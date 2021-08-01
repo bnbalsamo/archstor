@@ -1,3 +1,12 @@
+# ARCHIVED
+
+This repository is archived. I am no longer actively developing/supporting it.
+
+If you are interested in discussing the contents of this repository feel free to contact me
+via the contact details provided in the "Author" section below.
+
+Note: This code didn't use the correct streaming APIs, and so could not handle large files.
+
 # archstor
 
 v0.1.2
